@@ -1,7 +1,4 @@
 {
-  "generalSettings": {
-    "shouldScanRepo": "true"
-  },
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
